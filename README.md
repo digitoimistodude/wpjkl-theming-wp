@@ -6,4 +6,4 @@ Original subject on the Meetup page: [Räätälöity WordPress-teemakehitys](htt
 
 Slides use [dude-reveal.js-base](https://github.com/digitoimistodude/dude-reveal.js-base). The talk is in Finnish and the actual live slides can be found at [slides.dude.fi/wpjkl-theming-wp/](https://slides.dude.fi/wpjkl-theming-wp/).
 
-#[View slides](https://slides.dude.fi/wpjkl-theming-wp/)
+# [View slides](https://slides.dude.fi/wpjkl-theming-wp/)
